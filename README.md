@@ -1,2 +1,2 @@
 # Sudoku-Puzzle-Validator
-A multithreaded program to determines if the solution to a sudoku puzzle is valid.
+A multithreaded program that determines if the solution to a Sudoku puzzle is valid.
